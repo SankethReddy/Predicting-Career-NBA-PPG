@@ -1,0 +1,5 @@
+. Predict how many games/seasons an NBA player will play in his NBA career based off of his NCAA scoring stats.
+- Can use full dataset from 1980 onwards to predict number of NBA games/seasons played; don't have to remove 
+certain players because they played less than 5 seasons.
+- For predicting how many games/seasons an NBA player will play in his NBA career based off of his NCAA scoring stats, 
+choose rows such that the value in the 'active_to' column is less than or equal to 2017.
